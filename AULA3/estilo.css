@@ -1,0 +1,10 @@
+p.a{font-style: verdana; font-size: 70px; letter-spacing: 6px; text-align: center; text-shadow: 7px 7px 5px gray; color:red;}
+p.b{font-style: courier; font-size: 60px; letter-spacing: 5px; text-align: center; text-decoration: underline; color:blue;}
+p.c{font-style: arial; font-size: 50px; letter-spacing: 4px; text-align: center; color: gray;}
+p.d{font-style: verdana; font-size: 40px; letter-spacing: 3px; text-align: center; text-decoration: overline; color:orange;}
+p.e{font-style: courier; font-size: 30px; letter-spacing: 2px; text-align: center; text-shadow: -8px -12px 5px blueviolet; color: gray;}
+p.f{font-style: arial; font-size: 20px; letter-spacing: 1px; text-align: center; color: green; text-shadow: 7px 15px 5px green; text-decoration: underline;}
+
+img{width: 200px;height: 175px;}
+figure{text-align: center;}
+body{background-color:gray;margin: 50px;}
